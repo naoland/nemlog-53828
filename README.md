@@ -2,18 +2,24 @@
 
 nemlog-53828
 
-## Windows10
+## Windows 10
 
-### Windows10 & vscode
+### Windows 10 & vscode
 
-### Windows10 & Tmux & neovim
+![](./images/windows-vscode.png)
 
-Windows10からSSHでUbuntuマシンに接続しています。
+### Windows 10 & Tmux & neovim
+
+![](./images/windows-terminal-tmux-nvim.png)
+
+Windows 10からSSHでUbuntuマシンに接続しています。
 
  
 ## Ubuntu
 
 ### Ubuntu 20.04LTS & Tmux & neovim
+
+![](./images/windows-vscode.png)
 
 ## Links
 
