@@ -23,3 +23,9 @@ Windows 10からSSHでUbuntuマシンに接続しています。
 
 ## Links
 
+## 関連情報へのリンク
+
+- [LINE Notify](https://notify-bot.line.me/ja/)
+- [私の作業中の画面紹介](https://nemlog.nem.social/blog/53828)（nemlog）
+- [nemlog記事とプロフィール](https://nemlog.nem.social/profile/5648)
+- [nemlog投稿管理用リポジトリ](https://github.com/naoland/nemlog-posts)
